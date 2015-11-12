@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bridal Henna</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="viewpager_example">ViewPager Example</string>
+     <string name="swipe_viewpager">Swipe left or right to test ViewPager.</string>
+
+</resources>
